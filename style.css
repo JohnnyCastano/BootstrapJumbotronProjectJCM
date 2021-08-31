@@ -17,3 +17,8 @@ h1 {
 p {
     background-color:rgb(151, 167, 167);
 }
+
+img {
+    height: 200px;
+    width: 200px;
+}
