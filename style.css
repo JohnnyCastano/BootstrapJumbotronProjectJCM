@@ -1,5 +1,7 @@
 body {
     background-color: rgb(189, 189, 189);
+    margin-left: 1in;
+    margin-right: 1in;
 }
 h1 {
     font-family: Courier;
@@ -21,4 +23,8 @@ p {
 img {
     height: 200px;
     width: 200px;
+}
+
+.carousel-item {
+    height: 32rem;
 }
